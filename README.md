@@ -76,6 +76,7 @@ I'm interested in developing AI/ML systems that address practical problems and e
     </td>
   </tr>
 </table>
+
 ---
 
 ## Technical Toolkit
@@ -107,22 +108,20 @@ I'm interested in developing AI/ML systems that address practical problems and e
 
 ---
 
-## Contribution Activity
-
-
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/Nirika-Lamichhane">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Nirika-Lamichhane&theme=github-compact&hide_border=true&area=true"
-      alt="Nirika Lamichhane's GitHub contribution activity graph"
+      src="https://ghchart.rshah.org/238636/Nirika-Lamichhane"
+      alt="Nirika Lamichhane's GitHub contribution chart"
       width="100%"
     />
   </a>
 </p>
 
-
-## 📈 Contribution Activity
-
-[**View my GitHub contribution calendar →**](https://github.com/Nirika-Lamichhane)
+<p align="center">
+  <a href="https://github.com/Nirika-Lamichhane">
+    View my full GitHub contribution history →
+  </a>
+</p>
