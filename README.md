@@ -1,113 +1,127 @@
-# Hi, I'm Nirika Lamichhane 👋
+<!-- ==================== INTRO ==================== -->
 
-### Computer Engineering Student | Aspiring AI/ML Engineer & Researcher 🇳🇵
+<h1 align="center">Nirika Lamichhane</h1>
 
-I'm a Computer Engineering student at **IOE, Thapathali Campus, Nepal**, interested in building practical AI/ML systems and exploring research-driven solutions to real-world problems.
+<h3 align="center">AI/ML Engineering · Research · Real-World Impact</h3>
 
-My interests include **Machine Learning, Deep Learning, Natural Language Processing, Graph Neural Networks, and Explainable AI**.
+<p align="center">
+  Computer Engineering student at IOE, Thapathali Campus, Nepal.
+  <br/>
+  Exploring intelligent systems through machine learning, NLP, and graph neural networks.
+</p>
 
-- 🔭 Currently working on **wind-aware air quality forecasting using spatio-temporal GNNs**
-- 🌱 Learning **PyTorch, Graph Neural Networks, and model explainability**
-- 🔬 Interested in **AI/ML research, low-resource NLP, and environmental AI**
-- 🤝 Open to collaborating on meaningful AI/ML projects and research
-- 📝 [Find me on Medium](https://medium.com/@nirikalamichhane12)
-- 📫 Reach me at **nirikalamichhane12@gmail.com**
-
----
-
-## 🔗 Connect with me
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/Nirika-Lamichhane">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Nirika--Lamichhane-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/nirika-lamichhane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@nirikalamichhane12">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-Read%20my%20writing-000000?style=flat-square&logo=medium" alt="Medium"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,react,javascript,docker,mysql,postgresql&perline=6" alt="Technology icons"/>
-</p>
+I'm interested in developing AI/ML systems that address practical problems and exploring the research behind them.
 
-**Areas of interest**
-
-`Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Graph Neural Networks` · `Explainable AI` · `Time-Series Forecasting`
+- 🔬 **Research interests:** Deep Learning, Low-Resource NLP, Graph Neural Networks, Explainable AI
+- 🌫️ **Currently building:** Wind-aware spatio-temporal graph learning for air-quality forecasting
+- 🧠 **Currently learning:** PyTorch, GNNs, and model explainability
+- 🤝 **Open to:** AI/ML internships, research opportunities, and meaningful collaborations
+- ✍️ **Writing:** [Medium](https://medium.com/@nirikalamichhane12)
+- 📬 **Contact:** [nirikalamichhane12@gmail.com](mailto:nirikalamichhane12@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌫️ Wind-Aware Air Quality Forecasting
 
-**Explainable Wind-Aware Spatio-Temporal Graph Neural Network for Air Quality Forecasting and Mitigation Analysis**
+An explainable spatio-temporal graph neural network project focused on air-quality forecasting across the Kathmandu Valley.
 
-Developing a graph-based forecasting system to model air quality across the Kathmandu Valley by learning spatial relationships between monitoring stations, temporal patterns, and wind-related effects.
+**Exploring**
+- Graph Attention Networks and temporal learning
+- Wind-aware spatial relationships
+- PM2.5 forecasting and model explainability
 
-- 🧠 Focus: Spatio-temporal learning, GNNs, and explainability
-- 🌬️ Domain: Environmental AI and PM2.5 forecasting
-- 🔍 Goal: Understand spatial influences and support data-driven air-quality analysis
+<a href="https://github.com/Nirika-Lamichhane/Major-Project">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View repository"/>
+</a>
 
-[**Explore the project repository →**](https://github.com/Nirika-Lamichhane/Major-Project)
+</td>
+<td width="50%" valign="top">
 
 ### 💬 Nepali Target-Aspect Sentiment Analysis
 
-A research-oriented NLP project focused on mining Nepali public opinion from YouTube comments, including multilingual and romanized text.
+An NLP project exploring how to extract target-specific sentiment and aspects from Nepali public-opinion comments.
 
-- 🗣️ Focus: Low-resource NLP and multilingual text processing
-- 🧩 Methods explored: Language identification, named-entity recognition, and CNN-BiLSTM-based aspect and sentiment analysis
-- 🎯 Goal: Analyze sentiment in relation to specific public-opinion targets and aspects
+**Exploring**
+- Low-resource and multilingual NLP
+- Language identification and text normalization
+- Target identification and sentiment classification
 
-*Repository link to be added.*
+**Focus:** Making public-opinion analysis more useful for Nepali-language data.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirika-Lamichhane&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirika-Lamichhane&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nirika-Lamichhane&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+## Technical Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,react,javascript,docker,mysql,postgresql&perline=5" alt="Technical toolkit"/>
+</p>
+
+<p align="center">
+  <b>AI/ML:</b> Machine Learning · Deep Learning · NLP · Graph Neural Networks · Explainable AI
+  <br/>
+  <b>Data:</b> Pandas · Data Analysis · Visualization
+  <br/>
+  <b>Development:</b> Python · Git · GitHub · React
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nirika-Lamichhane&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirika-Lamichhane&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Nirika-Lamichhane&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirika-Lamichhane&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nirika-Lamichhane&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
-</p>
-
----
-
-## 📦 Repository Overview
-
-<p align="left">
-  <img src="https://img.shields.io/github/repos/Nirika-Lamichhane?style=for-the-badge&label=Public%20Repositories" alt="Public repositories"/>
-  <img src="https://img.shields.io/github/stars/Nirika-Lamichhane?style=for-the-badge&label=Stars" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=Nirika-Lamichhane&style=for-the-badge&label=Profile%20Views" alt="Profile views"/>
+  <a href="https://github.com/Nirika-Lamichhane?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+  <a href="https://github.com/Nirika-Lamichhane?tab=stars">
+    <img src="https://img.shields.io/badge/Explore%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="Explore stars"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building, learning, experimenting, and exploring how AI can make a meaningful difference.</i>
+  <i>Learning continuously. Building thoughtfully. Exploring what AI can make possible.</i>
 </p>
