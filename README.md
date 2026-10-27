@@ -1,37 +1,113 @@
-<h1 align="center">Hi 👋, I'm Nirika Lamichhane</h1>
-<h3 align="center">Computer Engineering Student | Aspiring AI/ML Engineer and Researcher from Nepal.</h3>
+# Hi, I'm Nirika Lamichhane 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirika-lamichhane&label=Profile%20views&color=0e75b6&style=flat" alt="nirika-lamichhane" /> </p>
+### Computer Engineering Student | Aspiring AI/ML Engineer & Researcher 🇳🇵
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirika-lamichhane" alt="nirika-lamichhane" /></a> </p>
+I'm a Computer Engineering student at **IOE, Thapathali Campus, Nepal**, interested in building practical AI/ML systems and exploring research-driven solutions to real-world problems.
 
-- 🔭 I’m currently working on [Explainable Wind-Aware Spatio-Temporal GNN for Air Quality Forecasting](https://github.com/Nirika-Lamichhane/Major-Project)
+My interests include **Machine Learning, Deep Learning, Natural Language Processing, Graph Neural Networks, and Explainable AI**.
 
-- 🌱 I’m currently learning **Pytorch, GNN, Blog Posting**
+- 🔭 Currently working on **wind-aware air quality forecasting using spatio-temporal GNNs**
+- 🌱 Learning **PyTorch, Graph Neural Networks, and model explainability**
+- 🔬 Interested in **AI/ML research, low-resource NLP, and environmental AI**
+- 🤝 Open to collaborating on meaningful AI/ML projects and research
+- 📝 [Find me on Medium](https://medium.com/@nirikalamichhane12)
+- 📫 Reach me at **nirikalamichhane12@gmail.com**
 
-- 👯 I’m looking to collaborate on **Low Resource NLP and Environmental AI**
+---
 
-- 🤝 I’m looking for help with **Model Explainability**
+## 🔗 Connect with me
 
-- 📝 I regularly write articles on [https://medium.com/@nirikalamichhane12](https://medium.com/@nirikalamichhane12)
-
-- 💬 Ask me about **ML fundamentals and algorithms, NLP projects, Python**
-
-- 📫 How to reach me **nirikalamichhane12@gmail.com**
-
-- ⚡ Fun fact **I'm fascinated by how AI can solve real-world environmental problems in Nepal.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirika-lamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirika-lamichhane" height="30" width="40" /></a>
-<a href="https://medium.com/@nirikalamichhane12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirikalamichhane12" height="30" width="40" /></a>
+  <a href="https://github.com/Nirika-Lamichhane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/nirika-lamichhane">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@nirikalamichhane12">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirika-lamichhane&show_icons=true&locale=en&layout=compact" alt="nirika-lamichhane" /></p>
+## 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirika-lamichhane&show_icons=true&locale=en" alt="nirika-lamichhane" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,react,javascript,docker,mysql,postgresql&perline=6" alt="Technology icons"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirika-lamichhane&" alt="nirika-lamichhane" /></p>
+**Areas of interest**
+
+`Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Graph Neural Networks` · `Explainable AI` · `Time-Series Forecasting`
+
+---
+
+## 🚀 Featured Projects
+
+### 🌫️ Wind-Aware Air Quality Forecasting
+
+**Explainable Wind-Aware Spatio-Temporal Graph Neural Network for Air Quality Forecasting and Mitigation Analysis**
+
+Developing a graph-based forecasting system to model air quality across the Kathmandu Valley by learning spatial relationships between monitoring stations, temporal patterns, and wind-related effects.
+
+- 🧠 Focus: Spatio-temporal learning, GNNs, and explainability
+- 🌬️ Domain: Environmental AI and PM2.5 forecasting
+- 🔍 Goal: Understand spatial influences and support data-driven air-quality analysis
+
+[**Explore the project repository →**](https://github.com/Nirika-Lamichhane/Major-Project)
+
+### 💬 Nepali Target-Aspect Sentiment Analysis
+
+A research-oriented NLP project focused on mining Nepali public opinion from YouTube comments, including multilingual and romanized text.
+
+- 🗣️ Focus: Low-resource NLP and multilingual text processing
+- 🧩 Methods explored: Language identification, named-entity recognition, and CNN-BiLSTM-based aspect and sentiment analysis
+- 🎯 Goal: Analyze sentiment in relation to specific public-opinion targets and aspects
+
+*Repository link to be added.*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirika-Lamichhane&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirika-Lamichhane&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nirika-Lamichhane&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirika-Lamichhane&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nirika-Lamichhane&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+</p>
+
+---
+
+## 📦 Repository Overview
+
+<p align="left">
+  <img src="https://img.shields.io/github/repos/Nirika-Lamichhane?style=for-the-badge&label=Public%20Repositories" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/stars/Nirika-Lamichhane?style=for-the-badge&label=Stars" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Nirika-Lamichhane&style=for-the-badge&label=Profile%20Views" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, experimenting, and exploring how AI can make a meaningful difference.</i>
+</p>
