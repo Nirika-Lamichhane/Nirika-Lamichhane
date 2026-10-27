@@ -37,43 +37,45 @@ I'm interested in developing AI/ML systems that address practical problems and e
 
 ---
 
-## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌫️ Wind-Aware Air Quality Forecasting
-
-An explainable spatio-temporal graph neural network project focused on air-quality forecasting across the Kathmandu Valley.
-
-**Exploring**
-- Graph Attention Networks and temporal learning
-- Wind-aware spatial relationships
-- PM2.5 forecasting and model explainability
-
-<a href="https://github.com/Nirika-Lamichhane/Major-Project">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Nepali Target-Aspect Sentiment Analysis
-
-An NLP project exploring how to extract target-specific sentiment and aspects from Nepali public-opinion comments.
-
-**Exploring**
-- Low-resource and multilingual NLP
-- Language identification and text normalization
-- Target identification and sentiment classification
-
-**Focus:** Making public-opinion analysis more useful for Nepali-language data.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌫️ Wind-Aware Air Quality Forecasting</h3>
+      <p>
+        An explainable spatio-temporal graph neural network
+        project focused on air-quality forecasting across
+        the Kathmandu Valley.
+      </p>
+      <p>
+        <b>Focus:</b> Graph Neural Networks, PM2.5 forecasting,
+        wind-aware learning, and Explainable AI.
+      </p>
+      <p>
+        <a href="https://github.com/Nirika-Lamichhane/Major-Project">
+          <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="View air quality project repository"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/Nirika-Lamichhane/NLP-project">Nepali Target-Aspect Sentiment Analysis</a></h3>
+      <p>
+        An NLP project focused on extracting target-specific
+        sentiment and aspects from Nepali public-opinion comments.
+      </p>
+      <p>
+        <b>Focus:</b> Low-resource NLP, multilingual text,
+        target identification, and sentiment classification.
+      </p>
+      <p>
+        <a href="https://github.com/Nirika-Lamichhane/NLP-project">
+          <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Nepali NLP project repository"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## Technical Toolkit
@@ -107,21 +109,20 @@ An NLP project exploring how to extract target-specific sentiment and aspects fr
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirika-Lamichhane&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/Nirika-Lamichhane?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  <a href="https://github.com/Nirika-Lamichhane">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Nirika-Lamichhane&theme=github-compact&hide_border=true&area=true"
+      alt="Nirika Lamichhane's GitHub contribution activity graph"
+      width="100%"
+    />
   </a>
-  <a href="https://github.com/Nirika-Lamichhane?tab=stars">
-    <img src="https://img.shields.io/badge/Explore%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="Explore stars"/>
-  </a>
 </p>
 
----
 
-<p align="center">
-  <i>Learning continuously. Building thoughtfully. Exploring what AI can make possible.</i>
-</p>
+## 📈 Contribution Activity
+
+[**View my GitHub contribution calendar →**](https://github.com/Nirika-Lamichhane)
